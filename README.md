@@ -1,2 +1,1 @@
-# EA---Machine-Learning-3
-Trilha Machine Learning
+# Trilha de Machine Learning da Expert Academy - IA
